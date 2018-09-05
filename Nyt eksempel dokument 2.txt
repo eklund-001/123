@@ -1,0 +1,9 @@
+Her er min tekst i dokumentet 2
+
+// nu gemmes projektet lokalt Ctrl+S
+// Bemærkning bl.a bl.a bl.a
+//
+// tilføjer mere tekst og vil efterfølgende gemme min ændring 
+f'rst Ctrl+s for at gemme supplerende tekst
+
+// Nu skal vi have det overført til online versionen
